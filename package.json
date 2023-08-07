@@ -1,0 +1,12 @@
+{
+  "name": "simple-express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Leeya Davis",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
